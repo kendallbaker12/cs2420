@@ -1,0 +1,17 @@
+1st attempt = 319 seconds 11/9/21
+2nd attempt = 208 seconds 11/9/21
+3rd attempt = 262 seconds 11/29/21
+4th attempt = 184 seconds 11/29/21
+5th attempt = 173 seconds 11/29/21
+6th attempt = 154 seconds 11/29/21
+7th attempt = 143 seconds 11/29/21
+8th attempt = 127 seconds 11/30/21
+9th attempt = 131 seconds 11/30/21
+10th attempt = 130 seconds 11/30/21
+11th attempt = 114 seconds 11/30/21
+12th attempt = 109 seconds 11/30/21
+13th attempt = 130 seconds 12/2/21
+14th attempt = 119 seconds 12/2/21
+15th attempt = 131 seconds 12/3/21
+
+
